@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e0e0e0;
+  color: #333;
+}
+
+/* Header styling */
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.2em; /* Slightly decreased font size */
+}
+
+header p {
+  margin: 10px 0;
+  font-size: 1.1em; /* Slightly decreased font size */
+}
+
+header .social-links {
+  margin-top: 10px;
+}
+
+header .social-links a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 1.4em; /* Slightly decreased font size */
+}
+
+header .social-links a:hover {
+  color: #bbb;
+}
+
+/* About section styling */
+#about {
+  text-align: center;
+  padding: 60px 0; /* Increased padding */
+}
+
+#about img {
+  width: 180px; /* Increased size */
+  height: 180px; /* Increased size */
+  border-radius: 50%;
+  border: 5px solid #444;
+}
+
+/* About1 section styling */
+#about1 {
+  padding: 60px;
+  background-color: #fff;
+  text-align: center;
+}
+
+#about1 h2 {
+  font-size: 1.4em; /* Slightly decreased font size */
+  margin: 0;
+}
+
+/* Projects section styling */
+#projects {
+  padding: 60px;
+  background-color: #e0e0e0;
+}
+
+#projects h2 {
+  text-align: center;
+  font-size: 1.8em; /* Slightly decreased font size */
+  margin-bottom: 20px;
+}
+
+.project {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.project h3 {
+  font-size: 1.4em; /* Slightly decreased font size */
+  margin: 0 0 10px 0;
+}
+
+.project img {
+  width: 100%;
+  max-width: 350px; /* Increased max-width */
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.project p {
+  font-size: 0.9em; /* Slightly decreased font size */
+  margin: 0;
+}
+
+/* Resume section styling */
+#resume {
+  padding: 60px;
+  text-align: center;
+  background-color: #fff;
+}
+
+#resume h2 {
+  font-size: 1.8em; /* Slightly decreased font size */
+  margin-bottom: 20px;
+}
+
+#resume a {
+  font-size: 1.1em; /* Slightly decreased font size */
+  color: #222;
+  text-decoration: none;
+  border: 1px solid #222;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+#resume a:hover {
+  background-color: #222;
+  color: #fff;
+}
+
+/* Contact section styling */
+#contact {
+  padding: 60px;
+  text-align: center;
+  background-color:
